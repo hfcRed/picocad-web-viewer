@@ -1,4 +1,4 @@
-# WebGL viewer for picoCAD files
+# WebGL viewer for picoCAD files 
 
 ## [lucatronica.github.io/picocad-web-viewer/](https://lucatronica.github.io/picocad-web-viewer/)
 ## [luca.games/picocad/](https://luca.games/picocad/)
